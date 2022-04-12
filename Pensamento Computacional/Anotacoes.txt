@@ -1,0 +1,63 @@
+Aula 1: VISÃO GERAL
+  Conceitos 
+
+Introdução: Pensamento Computacional?
+- Formulação e Resolução de Problemas;
+- Sistemático e Eficiente,
+
+Baseado em 4 Pilares
+- Decomposição: dividir um problema complexo em subproblemas;
+- Reconhecimento de Padrões: identifica padrões ou tendencias; similaridades e diferenças entre os problemas.
+- Abstração: extrapolar o conceiro do problema p/ uma forma generalista;
+- Design de Algotítmos: automatizar -> definir passo a passo a solução do problema; 
+
+Definir uma solução -> testar -> Aperfeiçoamento da solução 
+
+Variação dos Pilares:
+- Raciocínio Lógico  - pensamento estruturado (INDUÇÃO [sintética] / DEDUÇÃO [analítica] / ABDUÇÃO [sintética]);
+- Refinamento - aperfeiçoamento - a partir de uma solução -> aperfeiçoar - processo contínuo; 
+
+Aula 2: PILARES DO PENSAMENTO COMPUTACIONAL
+1. Decomposição: quebrar em partes;
+  - Análise -> síntese (reconstrução);
+    - PARALELO / SEQUENCIAL;
+
+Como decompor?
+- entenda a problema -> idenfifique (componentes/características/dependências);
+- agregar os dados;
+- funcionalidades
+
+2. Reconhecimento de Padrões: modelo base / estrutura invariante / repetição;
+  - similaridades/diferenças;
+  
+Por que? Generalizar.
+
+Classificação: Classes / Categorias. 
+
+Abordagem: extração de características/classificação de dados;
+
+Diferentes: métodos/aplicações;
+
+3. Abstração: generalização/abstração
+  - Como classificar?
+    - características;
+    - pontos essenciais;
+    - generalizar x detalhar;
+    
+ REPRESENTAÇÃO.
+ 
+4. Algoritmos: processo de resolução "passo a passo";
+análise -> algoritmo -> codificação (programa);
+  - sequência de passos com objetivo definido;
+    - execução de tarefas especificas;
+      -conj. de operações ->sucessão finita de ações;
+      
+Como constuir um algoritmo?
+- compensação do problema;         - definir dados de sáida;
+- definição dados de entrada;      - utilizar um metodo de construção;
+- definir processamento;           - teste e diagnóstico;
+
+Construção de algoritmos:
+. Narrativa -> utilização da linguagem natural;
+. Fluxograma -> utilização de símbolos pré-definidos;
+. Pseudocódigo -> Portugol;
